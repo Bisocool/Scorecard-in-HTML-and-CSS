@@ -1,15 +1,15 @@
 var dict = [
   {
-    icon: "src/math.svg"
+    icon: "src/icon-reaction.svg"
   },
   {
-    icon: "src/book-outline.svg"
+    icon: "src/icon-memory.svg"
   },
   {
-    icon: "src/history-brush.svg"
+    icon: "src/icon-verbal.svg"
   },
   {
-    icon: "src/science.svg"
+    icon: "src/icon-visual.svg"
   }
 ];
 
